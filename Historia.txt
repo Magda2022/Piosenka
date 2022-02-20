@@ -1,0 +1,41 @@
+Jagna@DESKTOP-B9TMLTD MINGW32 ~/OneDrive/Pulpit/Piosenka (master)
+$ git -p log
+commit d91dc27a4388b0f218013928165c0ee0fc2de7ac (HEAD -> master)
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 23:09:58 2022 +0100
+
+    Piosenka.txt
+
+commit 1c7e414a639bdd3e0899cc5a4851127da9c41797
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 23:05:18 2022 +0100
+
+    Refren.txt
+
+commit a61ee0e8ccd07d5f36945988f2bfb812ef2035e9
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 23:02:39 2022 +0100
+
+    Zwrotka 2.txt
+
+commit d8faf20dc93802c071656a4fa590356140c1dadf
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 22:59:54 2022 +0100
+
+    Refren.txt
+
+commit cab6f69913d3cd08b03a0ca35c9ecfd48011ea64
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 22:57:30 2022 +0100
+
+    Zwrotka.txt
+
+commit c1dc220273e4d3fba417b7688b720efe412af1b8
+Author: Magda2022 <98253165+Magda2022@users.noreply.github.com>
+Date:   Sun Feb 20 22:54:47 2022 +0100
+
+    Piosenka.txt
+
+Jagna@DESKTOP-B9TMLTD MINGW32 ~/OneDrive/Pulpit/Piosenka (master)
+$
+
